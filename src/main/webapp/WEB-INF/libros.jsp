@@ -19,7 +19,7 @@
 			<hr>
 			<ul>
 				<c:forEach items="${listaLibros}" var="libro">
-					<li><a href="libros/${libro.key}" class="btn"> ${libro.key} - ${libro.value}</a></li>
+					<li><a href="libros/${libro.key}" class="btn"> ${libro.key}</a></li>
 				</c:forEach>
 			</ul>
 			<hr>

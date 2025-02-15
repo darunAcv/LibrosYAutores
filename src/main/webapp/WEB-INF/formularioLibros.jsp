@@ -5,7 +5,7 @@
 	<html>
 		<head>
 			<meta charset="UTF-8">
-			<title>Formulario</title>
+			<title>Añadir Libro</title>
 			<link rel="stylesheet" href="/css/libros_style.css">
 							        <link rel="preconnect" href="https://fonts.googleapis.com">
 							<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -17,7 +17,7 @@
 			<div class="container">
 				<h1>Añadir Libro</h1>
 				<hr>
-					<form action="/procesa/libros" method="POST">
+					<form action="/procesa/libro" method="POST">
 						<div>
 							<label class="txt" for="autor">Autor:</label>
 							<input class="txt-input mt" type="text" name="autor"/>

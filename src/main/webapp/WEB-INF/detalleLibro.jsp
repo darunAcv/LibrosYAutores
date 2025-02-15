@@ -5,7 +5,7 @@
 	<html>
 		<head>
 			<meta charset="UTF-8">
-			<title>Detalle libro</title>
+			<title>Detalles</title>
 			 <link rel="stylesheet" href="/css/libros_style.css">
 				        <link rel="preconnect" href="https://fonts.googleapis.com">
 				<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
